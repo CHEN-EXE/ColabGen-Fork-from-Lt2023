@@ -1,7 +1,7 @@
 > [!WARNING]
 > 该仓库为克隆仓库，如需支持原创作者，请前往Github@Lt2023!
 >https://github.com/Lt2023
-
+1
 # ColabGen
 
 ## 功能介绍
